@@ -7,6 +7,8 @@
     android:orientation="vertical"
     tools:context="nyc.c4q.androidtest_unit4final.MainActivity">
 
+
+
     <LinearLayout
         android:id="@+id/fragment_container"
         android:layout_width="match_parent"
